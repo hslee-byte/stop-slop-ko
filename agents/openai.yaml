@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stop Slop KO · 한국어 글 다듬기"
+  short_description: "한국어 원고의 억지 대구·비교와 내부 기획 메모 노출을 줄입니다"
+  default_prompt: "$stop-slop-ko 아래 한국어 원고를 다듬어줘. 사실과 수치는 유지하고 독자가 읽을 완성본만 줘."
